@@ -1,0 +1,30 @@
+.auth-container {
+    width: 60%;
+    margin: 0 auto;
+    background: #fff;
+    padding: 1.5rem;
+    margin-top: 2rem;
+    border-radius: 10px;
+}
+
+.section-title {
+    text-align: center;
+    margin-bottom: 1rem;
+    color: #3B4258;
+}
+
+.section-form {
+    margin-top: 1rem;
+    color: #3B4258;
+}
+
+a.btn-link {
+    color: #3B4258;
+    text-decoration: none;
+    font-size: 700;
+}
+
+a.btn-link:hover {
+    color: #95D43D;
+    text-decoration: none;
+}

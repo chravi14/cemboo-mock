@@ -1,0 +1,41 @@
+.navbar {
+    height: 90px;
+    padding: 2rem;
+}
+
+.bg-dark {
+    background-color: #3B4258;
+}
+
+#top-nav-items {
+    position: absolute;
+    top: 5px;
+    right: 25px;
+    margin-bottom: 1rem;
+}
+
+#bottom-nav-items {
+    position: absolute;
+    bottom: 0;
+    right: 25px;
+    margin-top: 1rem;
+}
+
+.navbar-dark .navbar-nav .nav-link.btn-sm {
+    padding: 0.3rem;
+}
+
+.user-details {
+    position: relative;
+    cursor: pointer;
+}
+
+.userinfo {
+    position: absolute;
+    background: #fff;
+    color: #111;
+    width: 150px;
+    padding: 1rem;
+    z-index: 5;
+    border-radius: 10px;
+}

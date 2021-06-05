@@ -1,0 +1,27 @@
+.dashboard-header h3 {
+    font-size: 2rem;
+    color: #95D43D;
+}
+
+.dashboard-header {
+    border-bottom: 1px solid #ccc;
+    padding: 0.5rem 1rem;
+    position: fixed;
+    background: #31384C;
+    width: 95%;
+    top: 90px;
+    z-index: 10;
+}
+
+.dashboard-content {
+    padding: 1.5rem;
+    margin-top: 5.5rem;
+}
+
+.recent-uploads {
+    margin: 2rem 0;
+}
+
+.main-wrapper.open .dashboard-header {
+    width: 80%;
+}

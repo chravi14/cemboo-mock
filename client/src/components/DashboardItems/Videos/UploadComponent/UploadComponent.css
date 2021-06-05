@@ -1,0 +1,7 @@
+.upload-form .form-control {
+    background-color: #ced4da;
+}
+
+.form-control:focus {
+    background: #ced4da;
+}

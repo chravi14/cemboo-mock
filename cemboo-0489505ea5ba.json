@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cemboo",
+  "private_key_id": "0489505ea5bad3565e52311262a6bfbaf0926a91",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCZk+6aXQmaArL/\nRhMJhEMgqg12cuRfONSE044fVSFLKikqKj12uxGfeZXOJ5sBpMs2c998Xc8Z+/hL\nJp25t7h3aRxgARSocZA+JaBFx/H1oj/qnDumtKv86r7ddAyiVDEhCNU7LdBe/ZN2\n1MWjGRg40us8Hn3mR6wIRvUVCIjGfOzmJNnKeB1V0k3P5nmLxqqQRgoQ6bA2gnux\ntfS/h2GO3m2Tn8DOgSgNDPxLqeyh27/yvodTTE26OZohYvWiutoyVGp0n9cK7BD+\naoWfSJ2Is31JlGsJ/0/Sys0bX9U7zML9whVOC/tGvOmZxKlN2LomQbZDhCR/Ankv\n3Fh0LqUFAgMBAAECggEAH5+1lzWnP35ky2nri58fj39UzFo2KmFyaXOCpXMLKwYg\ned0+0M8Ofu8zaMMBCSKc8baEg4Bxn+EhrJ/kBJUPOA9910sBrPnNgO6QhS355eGm\nFbJcGiTD8Y2JBeLaoyaBA1NlTQ1PBfBjSCniFIabVUAhTjzdIekKRJ4P42fhejV3\nRXmC+k+f5Il8raVcfEiuzzk5ZJeK86UQy5RwKT++x/2OozFKh9Dd1c1FNCSxdVh2\neIokTqA+03yn4Q0iE33JOSjlgZb4EZL1X6LppmbMGKJMNHJpgqbWBDUPsFqUF+Fj\n8cvPS/VpW4ZzHVXzFJvuBRAIJ7k9ZJYFFgylIHQodQKBgQDXeQ7yl29aas2pHeej\nuLx7HBs8zL0tLSChUQOHr3UWQfn+57PEOv/iqb30B1T7Nd0WEjTSOf4JU5YIdFbC\nlfe7a8QfGNn3wBQ4FtSkzAlu1kDqlHJ4puDiDk9FLrdUGRvRjAOfaUjF36VmhkQM\nsq/CPYIasuC+bBelzLNwU1AWYwKBgQC2dqaKa6XxX1qXn1jiH6gIalI1sxe132a9\nK7C+G8cYtmDEx/X4WAbJ17m9BitK4jLCNy5jiEUKCQ0EKlgdaYcuMwNHHnPyhILr\nbVGGH6scuWvI7bozZWhccnRwKoiDNqhL0FVATsqU+YZcSWA9tSYSsee+eXMPnKtl\ndHcsb/zfdwKBgCZnpFtm1GkYOjnXY68RwT5sHwqyL1G7BmLaTrfDdSoXbliZsbfb\nEDq1KG8zU1lHG3XQnuuNfJLq/AXbvo8GLdaQ+a7VPhxjdvccUqBg4ZmIxJ9LADAz\nBkgkZsqc7f4mT4gE3axvFpJ2L0Pb0Is22g7T6bmagmZOW9SobJ8rqk2jAoGBAIWZ\nZuPfYkfT2889G6WmLDDNOJidI3VFuEI25VitmiAcGcq75vwJ6B6OWC9xfu17plLS\neKLkOjjY27D7GD2g8RwAuhuuzpL6N6oOBy0/rth/Y85hUn8jd0CJhXxDiGUa9itc\nxa8qgeaGtbyI9XD5XIE/xkGPR5Jc0pqcpk3hSbSNAoGAGdns26GW5GhTRAABY/ci\nROb/M3srPZ+7Iv+tKYc5Oh8Xx68uXIENC72WrkLSMZue92jnCsq4otpfQ81YhCFb\nFYPZOHQ4OT9LF522B2WWyv02I2I0AUOLoGd3aEjWihvmV3k8+3rDcAninsbW8Awd\nZqarAEQEYXwfB29ICEHNXoo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "cemboo@cemboo.iam.gserviceaccount.com",
+  "client_id": "116199227571708246497",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cemboo%40cemboo.iam.gserviceaccount.com"
+}
